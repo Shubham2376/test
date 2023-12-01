@@ -1,1 +1,2 @@
 hello world i just started using github
+I learn how to make new file in a repository and how to see a changes that occur in a file in past 
